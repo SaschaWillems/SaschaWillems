@@ -6,4 +6,4 @@ I've been an active Open Source developer for more than 25 years now (even befor
 - 🗂️ My open community driven <a href="https://www.gpuinfo.org/">GPU hardware databases</a>
 - 🔭 Khronos <a href="https://github.com/KhronosGroup">repositories</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saschawillems&show_icons=true&theme=dark" alt=" GitHub stats for Sascha Willems"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saschawillems&show_icons=true&theme=dark&include_all_commits=true" alt=" GitHub stats for Sascha Willems"/>
