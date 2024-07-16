@@ -5,6 +5,6 @@ I've been an active Open Source developer for over 25 years (even before that te
 - 🏠 My personal <a href="https://www.saschawillems.de" >home page</a>
 - 🗂️ My open community driven <a href="https://www.gpuinfo.org/">GPU hardware databases</a>
 - 🔭 Khronos <a href="https://github.com/KhronosGroup">repositories</a>
-- 👋🏻 For Vulkan related help you can find me in the <a href="">Vulkan Discord</a> and the <a href="https://reddit.com/r/vulkan">Subreddit</a>
+- 👋🏻 For Vulkan related help you can find me in the <a href="https://discord.com/invite/vulkan">Vulkan Discord</a> and the <a href="https://reddit.com/r/vulkan">Subreddit</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=saschawillems&show_icons=true&theme=dark&include_all_commits=true" alt=" GitHub stats for Sascha Willems"/>
