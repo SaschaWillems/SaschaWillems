@@ -1,6 +1,6 @@
 ### 💬 About me 
 
-I've been an active Open Source developer for over 25 years (even before that term was actually coined). At ☀️ day I'm a software development team lead in the automotive area. At 🌑 night and during 🏖️ weekends I mostly contribute to Open Source projects related to 3D realtime graphics using open standards from [Khronos](https://www.khronos.org).
+I've been an active Open Source developer for more than 25 years (prob. even before that term was actually coined). At day I'm a software development team lead. At night and during weekends I mostly contribute to Open Source projects related to 3D realtime graphics using open standards from [Khronos](https://www.khronos.org).
 
 - 🏠 My personal <a href="https://www.saschawillems.de" >home page</a>
 - 🗂️ My open community driven <a href="https://www.gpuinfo.org/">GPU hardware databases</a>
